@@ -1,1 +1,2 @@
-Ejemplo Practica 1. Añadir un archivo al git.
+Ejemplo Practica 1. Añadir un archivo al git. 
+Modificación del archivo.
